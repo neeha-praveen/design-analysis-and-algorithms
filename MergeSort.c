@@ -40,7 +40,7 @@ void mergeSort(int arr[], int l, int r) {
 
 int main() {
     clock_t start_time = clock(); 
-    FILE *file = fopen("input.txt", "r");
+    FILE *file = fopen("input.txt", "r"); //make input.txt w arr size in one line and arr elements in next
     if (file == NULL) {
         printf("Error opening input file.\n");
         return 1;
