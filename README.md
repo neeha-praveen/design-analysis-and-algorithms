@@ -1,7 +1,7 @@
 # Design and Analysis of Algorithms
 
 ## Lab Experiment 01
-    **a.** [Binary Search using Iterative Approach](BinarySearch_iterative.c)  
+- **a.** [Binary Search using Iterative Approach](BinarySearch_iterative.c)  
 - **b.** [Binary Search using Recursive Approach](BinarySearch_recursive.c)
 
 
