@@ -4,7 +4,7 @@
 - **a.** [Binary Search using Iterative Approach](BinarySearch_iterative.c)  
 - **b.** [Binary Search using Recursive Approach](BinarySearch_recursive.c)
 
----
+
 
 ## Lab Experiment 02
 
